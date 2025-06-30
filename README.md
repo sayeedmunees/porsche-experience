@@ -6,7 +6,7 @@ This is a basic **landing page** for **Porsche Experience**, built with just **H
 
 ## 🌐 Live Website
 
-> 🔗 [View the Live Site]([#https://sayeedmunees.github.io/porsche-experience/)  
+> 🔗 [View the Live Site](https://sayeedmunees.github.io/porsche-experience/)  
 
 ---
 
