@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.main-header{
+    text-align: center;
+    font-size: 88px;
+    font-weight: lighter;
+    padding-top: 2%;
+    z-index: 1;
+}
+
+.span-e{
+    color: white;
+}
+
+.card-container{
+    margin-left: 10%;
+    z-index: 0;
+    margin-top: -220px;
+}
+
+.location-cards{
+    width: 300px;
+    margin: 5%;
+    float: left;
+    
+}
+.image-wrap{
+    width: 100%;
+    overflow: hidden;
+}
+img{
+    height: 400px;
+}
+
+.card-header{
+    font-size: 32px;
+    font-weight: 300;
+    margin: 10px 0px;
+}
+
+.card-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    margin-bottom: 10px;
+}
+
+#card-2{
+    margin-top: 175px;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
