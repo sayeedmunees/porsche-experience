@@ -1,6 +1,6 @@
 # 🚗 Porsche Experience – Landing Page
 
-This is a basic, responsive **landing page** for **Porsche Experience**, built with just **HTML** and **vanilla CSS** as part of my MERN stack learning journey. While this project doesn't include JavaScript or backend functionality, it helped reinforce foundational frontend skills like structure, layout, and styling.
+This is a basic **landing page** for **Porsche Experience**, built with just **HTML** and **vanilla CSS** as part of my MERN stack learning journey. While this project doesn't include JavaScript or backend functionality, it helped reinforce foundational frontend skills like structure, layout, and styling.
 
 ---
 
